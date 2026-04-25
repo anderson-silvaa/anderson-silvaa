@@ -1,11 +1,10 @@
 ## Olá, me chamo Anderson Silva. Seja bem-vindo(a) ao meu perfil 😁
 ### Tecnologias que utilizo:
-<div style="display: inline_block"><br>
-  <img alt="Java" height="30" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Spring Boot" height="30" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img alt="SQL" height="30" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<div style="display: flex; gap: 10px;">
+  <img alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Spring Boot" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img alt="SQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-
 <br>
 
 ## Meu linkedin

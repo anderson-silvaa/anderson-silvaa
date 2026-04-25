@@ -1,6 +1,6 @@
 ## Olá, me chamo Anderson Silva. Seja bem-vindo(a) ao meu perfil 😁
 ### Tecnologias que utilizo:
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 15px;">
   <img alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Spring Boot" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img alt="SQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
